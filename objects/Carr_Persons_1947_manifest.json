@@ -1,0 +1,3062 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "Volume Carr_Persons_1947",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504475/canvas/1",
+                    "@type": "sc:Canvas",
+                    "label": "Image 1",
+                    "height": "4344.0",
+                    "width": "2896.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504475/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504475",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4344.0",
+                                "width": "2896.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504475/canvas/1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504476/canvas/2",
+                    "@type": "sc:Canvas",
+                    "label": "Image 2",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504476/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504476",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504476/canvas/2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504477/canvas/3",
+                    "@type": "sc:Canvas",
+                    "label": "Image 3",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504477/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504477",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504477/canvas/3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504478/canvas/4",
+                    "@type": "sc:Canvas",
+                    "label": "Image 4",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504478/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504478",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504478/canvas/4"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504479/canvas/5",
+                    "@type": "sc:Canvas",
+                    "label": "Image 5",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504479/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504479",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504479/canvas/5"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504480/canvas/6",
+                    "@type": "sc:Canvas",
+                    "label": "Image 6",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504480/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504480",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504480/canvas/6"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504481/canvas/7",
+                    "@type": "sc:Canvas",
+                    "label": "Image 7",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504481/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504481",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504481/canvas/7"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504482/canvas/8",
+                    "@type": "sc:Canvas",
+                    "label": "Image 8",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504482/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504482",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504482/canvas/8"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504483/canvas/9",
+                    "@type": "sc:Canvas",
+                    "label": "Image 9",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504483/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504483",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504483/canvas/9"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504484/canvas/10",
+                    "@type": "sc:Canvas",
+                    "label": "Image 10",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504484/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504484",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504484/canvas/10"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504485/canvas/11",
+                    "@type": "sc:Canvas",
+                    "label": "Image 11",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504485/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504485",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504485/canvas/11"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504486/canvas/12",
+                    "@type": "sc:Canvas",
+                    "label": "Image 12",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504486/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504486",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504486/canvas/12"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504487/canvas/13",
+                    "@type": "sc:Canvas",
+                    "label": "Image 13",
+                    "height": "4337.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504487/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504487",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504487/canvas/13"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504488/canvas/14",
+                    "@type": "sc:Canvas",
+                    "label": "Image 14",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504488/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504488",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504488/canvas/14"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504489/canvas/15",
+                    "@type": "sc:Canvas",
+                    "label": "Image 15",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504489/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504489",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504489/canvas/15"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504490/canvas/16",
+                    "@type": "sc:Canvas",
+                    "label": "Image 16",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504490/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504490",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504490/canvas/16"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504491/canvas/17",
+                    "@type": "sc:Canvas",
+                    "label": "Image 17",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504491/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504491",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504491/canvas/17"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504492/canvas/18",
+                    "@type": "sc:Canvas",
+                    "label": "Image 18",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504492/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504492",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504492/canvas/18"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504493/canvas/19",
+                    "@type": "sc:Canvas",
+                    "label": "Image 19",
+                    "height": "4337.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504493/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504493",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4337.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504493/canvas/19"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504494/canvas/20",
+                    "@type": "sc:Canvas",
+                    "label": "Image 20",
+                    "height": "5007.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504494/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504494",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5007.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504494/canvas/20"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504495/canvas/21",
+                    "@type": "sc:Canvas",
+                    "label": "Image 21",
+                    "height": "5007.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504495/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504495",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5007.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504495/canvas/21"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504496/canvas/22",
+                    "@type": "sc:Canvas",
+                    "label": "Image 22",
+                    "height": "4205.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504496/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504496",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4205.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504496/canvas/22"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504497/canvas/23",
+                    "@type": "sc:Canvas",
+                    "label": "Image 23",
+                    "height": "4205.0",
+                    "width": "2996.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504497/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504497",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4205.0",
+                                "width": "2996.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504497/canvas/23"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504498/canvas/24",
+                    "@type": "sc:Canvas",
+                    "label": "Image 24",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504498/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504498",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504498/canvas/24"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504499/canvas/25",
+                    "@type": "sc:Canvas",
+                    "label": "Image 25",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504499/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504499",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504499/canvas/25"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504500/canvas/26",
+                    "@type": "sc:Canvas",
+                    "label": "Image 26",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504500/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504500",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504500/canvas/26"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504501/canvas/27",
+                    "@type": "sc:Canvas",
+                    "label": "Image 27",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504501/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504501",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504501/canvas/27"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504502/canvas/28",
+                    "@type": "sc:Canvas",
+                    "label": "Image 28",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504502/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504502",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504502/canvas/28"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504503/canvas/29",
+                    "@type": "sc:Canvas",
+                    "label": "Image 29",
+                    "height": "5467.0",
+                    "width": "3351.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504503/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504503",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5467.0",
+                                "width": "3351.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504503/canvas/29"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504504/canvas/30",
+                    "@type": "sc:Canvas",
+                    "label": "Image 30",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504504/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504504",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504504/canvas/30"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504505/canvas/31",
+                    "@type": "sc:Canvas",
+                    "label": "Image 31",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504505/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504505",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504505/canvas/31"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504506/canvas/32",
+                    "@type": "sc:Canvas",
+                    "label": "Image 32",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504506/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504506",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504506/canvas/32"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504507/canvas/33",
+                    "@type": "sc:Canvas",
+                    "label": "Image 33",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504507/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504507",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504507/canvas/33"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504508/canvas/34",
+                    "@type": "sc:Canvas",
+                    "label": "Image 34",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504508/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504508",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504508/canvas/34"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504509/canvas/35",
+                    "@type": "sc:Canvas",
+                    "label": "Image 35",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504509/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504509",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504509/canvas/35"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504510/canvas/36",
+                    "@type": "sc:Canvas",
+                    "label": "Image 36",
+                    "height": "4087.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504510/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504510",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4087.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504510/canvas/36"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504511/canvas/37",
+                    "@type": "sc:Canvas",
+                    "label": "Image 37",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504511/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504511",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504511/canvas/37"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504512/canvas/38",
+                    "@type": "sc:Canvas",
+                    "label": "Image 38",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504512/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504512",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504512/canvas/38"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504513/canvas/39",
+                    "@type": "sc:Canvas",
+                    "label": "Image 39",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504513/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504513",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504513/canvas/39"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504514/canvas/40",
+                    "@type": "sc:Canvas",
+                    "label": "Image 40",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504514/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504514",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504514/canvas/40"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504515/canvas/41",
+                    "@type": "sc:Canvas",
+                    "label": "Image 41",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504515/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504515",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504515/canvas/41"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504516/canvas/42",
+                    "@type": "sc:Canvas",
+                    "label": "Image 42",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504516/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504516",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504516/canvas/42"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504517/canvas/43",
+                    "@type": "sc:Canvas",
+                    "label": "Image 43",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504517/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504517",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504517/canvas/43"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504518/canvas/44",
+                    "@type": "sc:Canvas",
+                    "label": "Image 44",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504518/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504518",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504518/canvas/44"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504519/canvas/45",
+                    "@type": "sc:Canvas",
+                    "label": "Image 45",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504519/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504519",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504519/canvas/45"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504520/canvas/46",
+                    "@type": "sc:Canvas",
+                    "label": "Image 46",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504520/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504520",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504520/canvas/46"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504521/canvas/47",
+                    "@type": "sc:Canvas",
+                    "label": "Image 47",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504521/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504521",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504521/canvas/47"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504522/canvas/48",
+                    "@type": "sc:Canvas",
+                    "label": "Image 48",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504522/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504522",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504522/canvas/48"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504523/canvas/49",
+                    "@type": "sc:Canvas",
+                    "label": "Image 49",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504523/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504523",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504523/canvas/49"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504524/canvas/50",
+                    "@type": "sc:Canvas",
+                    "label": "Image 50",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504524/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504524",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504524/canvas/50"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504525/canvas/51",
+                    "@type": "sc:Canvas",
+                    "label": "Image 51",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504525/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504525",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504525/canvas/51"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504526/canvas/52",
+                    "@type": "sc:Canvas",
+                    "label": "Image 52",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504526/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504526",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504526/canvas/52"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504527/canvas/53",
+                    "@type": "sc:Canvas",
+                    "label": "Image 53",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504527/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504527",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504527/canvas/53"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504528/canvas/54",
+                    "@type": "sc:Canvas",
+                    "label": "Image 54",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504528/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504528",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504528/canvas/54"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504529/canvas/55",
+                    "@type": "sc:Canvas",
+                    "label": "Image 55",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504529/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504529",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504529/canvas/55"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504530/canvas/56",
+                    "@type": "sc:Canvas",
+                    "label": "Image 56",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504530/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504530",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504530/canvas/56"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504531/canvas/57",
+                    "@type": "sc:Canvas",
+                    "label": "Image 57",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504531/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504531",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504531/canvas/57"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504532/canvas/58",
+                    "@type": "sc:Canvas",
+                    "label": "Image 58",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504532/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504532",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504532/canvas/58"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504533/canvas/59",
+                    "@type": "sc:Canvas",
+                    "label": "Image 59",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504533/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504533",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504533/canvas/59"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504534/canvas/60",
+                    "@type": "sc:Canvas",
+                    "label": "Image 60",
+                    "height": "4232.0",
+                    "width": "3023.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504534/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504534",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4232.0",
+                                "width": "3023.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504534/canvas/60"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504535/canvas/61",
+                    "@type": "sc:Canvas",
+                    "label": "Image 61",
+                    "height": "5231.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504535/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504535",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5231.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504535/canvas/61"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504536/canvas/62",
+                    "@type": "sc:Canvas",
+                    "label": "Image 62",
+                    "height": "5231.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504536/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504536",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "5231.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504536/canvas/62"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504537/canvas/63",
+                    "@type": "sc:Canvas",
+                    "label": "Image 63",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504537/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504537",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504537/canvas/63"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504538/canvas/64",
+                    "@type": "sc:Canvas",
+                    "label": "Image 64",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504538/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504538",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504538/canvas/64"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504539/canvas/65",
+                    "@type": "sc:Canvas",
+                    "label": "Image 65",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504539/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504539",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504539/canvas/65"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504540/canvas/66",
+                    "@type": "sc:Canvas",
+                    "label": "Image 66",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504540/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504540",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504540/canvas/66"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504541/canvas/67",
+                    "@type": "sc:Canvas",
+                    "label": "Image 67",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504541/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504541",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504541/canvas/67"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504542/canvas/68",
+                    "@type": "sc:Canvas",
+                    "label": "Image 68",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504542/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504542",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504542/canvas/68"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504543/canvas/69",
+                    "@type": "sc:Canvas",
+                    "label": "Image 69",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504543/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504543",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504543/canvas/69"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504544/canvas/70",
+                    "@type": "sc:Canvas",
+                    "label": "Image 70",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504544/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504544",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504544/canvas/70"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504545/canvas/71",
+                    "@type": "sc:Canvas",
+                    "label": "Image 71",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504545/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504545",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504545/canvas/71"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504546/canvas/72",
+                    "@type": "sc:Canvas",
+                    "label": "Image 72",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504546/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504546",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504546/canvas/72"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504547/canvas/73",
+                    "@type": "sc:Canvas",
+                    "label": "Image 73",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504547/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504547",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504547/canvas/73"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504548/canvas/74",
+                    "@type": "sc:Canvas",
+                    "label": "Image 74",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504548/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504548",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504548/canvas/74"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504549/canvas/75",
+                    "@type": "sc:Canvas",
+                    "label": "Image 75",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504549/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504549",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504549/canvas/75"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504550/canvas/76",
+                    "@type": "sc:Canvas",
+                    "label": "Image 76",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504550/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504550",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504550/canvas/76"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504551/canvas/77",
+                    "@type": "sc:Canvas",
+                    "label": "Image 77",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504551/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504551",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504551/canvas/77"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504552/canvas/78",
+                    "@type": "sc:Canvas",
+                    "label": "Image 78",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504552/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504552",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504552/canvas/78"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504553/canvas/79",
+                    "@type": "sc:Canvas",
+                    "label": "Image 79",
+                    "height": "4245.0",
+                    "width": "3128.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504553/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504553",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4245.0",
+                                "width": "3128.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504553/canvas/79"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504554/canvas/80",
+                    "@type": "sc:Canvas",
+                    "label": "Image 80",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504554/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504554",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504554/canvas/80"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504555/canvas/81",
+                    "@type": "sc:Canvas",
+                    "label": "Image 81",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504555/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504555",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504555/canvas/81"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504556/canvas/82",
+                    "@type": "sc:Canvas",
+                    "label": "Image 82",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504556/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504556",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504556/canvas/82"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504557/canvas/83",
+                    "@type": "sc:Canvas",
+                    "label": "Image 83",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504557/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504557",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504557/canvas/83"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504558/canvas/84",
+                    "@type": "sc:Canvas",
+                    "label": "Image 84",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504558/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504558",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504558/canvas/84"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504559/canvas/85",
+                    "@type": "sc:Canvas",
+                    "label": "Image 85",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504559/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504559",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504559/canvas/85"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504560/canvas/86",
+                    "@type": "sc:Canvas",
+                    "label": "Image 86",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504560/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504560",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504560/canvas/86"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504561/canvas/87",
+                    "@type": "sc:Canvas",
+                    "label": "Image 87",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504561/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504561",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504561/canvas/87"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504562/canvas/88",
+                    "@type": "sc:Canvas",
+                    "label": "Image 88",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504562/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504562",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504562/canvas/88"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504563/canvas/89",
+                    "@type": "sc:Canvas",
+                    "label": "Image 89",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504563/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504563",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504563/canvas/89"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504564/canvas/90",
+                    "@type": "sc:Canvas",
+                    "label": "Image 90",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504564/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504564",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504564/canvas/90"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504565/canvas/91",
+                    "@type": "sc:Canvas",
+                    "label": "Image 91",
+                    "height": "4078.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504565/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504565",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4078.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504565/canvas/91"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504566/canvas/92",
+                    "@type": "sc:Canvas",
+                    "label": "Image 92",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504566/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504566",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504566/canvas/92"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504567/canvas/93",
+                    "@type": "sc:Canvas",
+                    "label": "Image 93",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504567/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504567",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504567/canvas/93"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504568/canvas/94",
+                    "@type": "sc:Canvas",
+                    "label": "Image 94",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504568/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504568",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504568/canvas/94"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504569/canvas/95",
+                    "@type": "sc:Canvas",
+                    "label": "Image 95",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504569/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504569",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504569/canvas/95"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504570/canvas/96",
+                    "@type": "sc:Canvas",
+                    "label": "Image 96",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504570/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504570",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504570/canvas/96"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504571/canvas/97",
+                    "@type": "sc:Canvas",
+                    "label": "Image 97",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504571/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504571",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504571/canvas/97"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504572/canvas/98",
+                    "@type": "sc:Canvas",
+                    "label": "Image 98",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504572/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504572",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504572/canvas/98"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504573/canvas/99",
+                    "@type": "sc:Canvas",
+                    "label": "Image 99",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504573/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504573",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504573/canvas/99"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504574/canvas/100",
+                    "@type": "sc:Canvas",
+                    "label": "Image 100",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504574/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504574",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504574/canvas/100"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504575/canvas/101",
+                    "@type": "sc:Canvas",
+                    "label": "Image 101",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504575/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504575",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504575/canvas/101"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504576/canvas/102",
+                    "@type": "sc:Canvas",
+                    "label": "Image 102",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504576/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504576",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504576/canvas/102"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504577/canvas/103",
+                    "@type": "sc:Canvas",
+                    "label": "Image 103",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504577/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504577",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504577/canvas/103"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504578/canvas/104",
+                    "@type": "sc:Canvas",
+                    "label": "Image 104",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504578/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504578",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504578/canvas/104"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504579/canvas/105",
+                    "@type": "sc:Canvas",
+                    "label": "Image 105",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504579/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504579",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504579/canvas/105"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504580/canvas/106",
+                    "@type": "sc:Canvas",
+                    "label": "Image 106",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504580/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504580",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504580/canvas/106"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504581/canvas/107",
+                    "@type": "sc:Canvas",
+                    "label": "Image 107",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504581/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504581",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504581/canvas/107"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504582/canvas/108",
+                    "@type": "sc:Canvas",
+                    "label": "Image 108",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504582/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504582",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504582/canvas/108"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504583/canvas/109",
+                    "@type": "sc:Canvas",
+                    "label": "Image 109",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504583/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504583",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504583/canvas/109"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504584/canvas/110",
+                    "@type": "sc:Canvas",
+                    "label": "Image 110",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504584/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504584",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504584/canvas/110"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504585/canvas/111",
+                    "@type": "sc:Canvas",
+                    "label": "Image 111",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504585/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504585",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504585/canvas/111"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504586/canvas/112",
+                    "@type": "sc:Canvas",
+                    "label": "Image 112",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504586/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504586",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504586/canvas/112"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504587/canvas/113",
+                    "@type": "sc:Canvas",
+                    "label": "Image 113",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504587/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504587",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504587/canvas/113"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504588/canvas/114",
+                    "@type": "sc:Canvas",
+                    "label": "Image 114",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504588/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504588",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504588/canvas/114"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504589/canvas/115",
+                    "@type": "sc:Canvas",
+                    "label": "Image 115",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504589/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504589",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504589/canvas/115"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504590/canvas/116",
+                    "@type": "sc:Canvas",
+                    "label": "Image 116",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504590/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504590",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504590/canvas/116"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504591/canvas/117",
+                    "@type": "sc:Canvas",
+                    "label": "Image 117",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504591/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504591",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504591/canvas/117"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504592/canvas/118",
+                    "@type": "sc:Canvas",
+                    "label": "Image 118",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504592/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504592",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504592/canvas/118"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504593/canvas/119",
+                    "@type": "sc:Canvas",
+                    "label": "Image 119",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504593/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504593",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504593/canvas/119"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504594/canvas/120",
+                    "@type": "sc:Canvas",
+                    "label": "Image 120",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504594/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504594",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504594/canvas/120"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504595/canvas/121",
+                    "@type": "sc:Canvas",
+                    "label": "Image 121",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504595/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504595",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504595/canvas/121"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504596/canvas/122",
+                    "@type": "sc:Canvas",
+                    "label": "Image 122",
+                    "height": "4134.0",
+                    "width": "3135.0",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504596/full/full/0/default.jpg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504596",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": "4134.0",
+                                "width": "3135.0"
+                            },
+                            "on": "https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5504596/canvas/122"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
