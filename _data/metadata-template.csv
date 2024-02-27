@@ -1,2 +1,2 @@
-objectid,title,object_location
-item1,Testing IIIF,https://wellcomelibrary.org/iiif/b18035723/manifest
+objectid,title,object_location,date,source
+item1,Testing IIIF,objects/Alford_Wills_1947_manifest.json,1947,University of Virginia School of Law
