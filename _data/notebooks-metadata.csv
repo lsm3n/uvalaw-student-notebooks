@@ -1,3 +1,4 @@
 objectid,title,creator,object_location,source,extent,image_thumb,date,source,display_template
 alford_wills_1947,Alford Wills,"Alford, Neill H",objects/Alford_Wills_1947_manifest.json,RG 400,251 pages,"https://iiif.lib.virginia.edu/iiif/2/law:archives:c5502700/full/,800/0/default.jpg",1947,University of Virginia School of Law,iiif_manifest
 hanger_1856,Hanger 1856,"Hanger, James Marshall",objects/Hanger_1856_manifest.json,RG 400,251 pages,"https://iiif.lib.virginia.edu/iiif/2/law:archives:c5511528/full/,800/0/default.jpg",1856,University of Virginia School of Law,iiif_manifest
+alford_conflicts_1947,Alford Conflicts 1947,"Alford, Neill H",objects/Alford_Conflicts_1947_manifest.json, RG 400, ##pages,"https://iiif.lib.virginia.edu/iiif/2/law:archives:c5500362/full/,800/0/default.jpg",1947,University of Virginia School of Law,iiif_manifest
