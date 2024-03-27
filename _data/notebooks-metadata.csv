@@ -2,3 +2,13 @@ objectid,title,creator,object_location,source,extent,image_thumb,date,institutio
 Alford_Wills_1947,Alford Wills,"Alford, Neill H",objects/Alford_Wills_1947_manifest.json,RG 400,251 pages,"https://iiif.lib.virginia.edu/iiif/2/law:archives:c5502700/full/,800/0/default.jpg",1947,University of Virginia School of Law,iiif_manifest
 Hanger_1856,Hanger 1856,"Hanger, James Marshall",objects/Hanger_1856_manifest.json,RG 400,## pages,"https://iiif.lib.virginia.edu/iiif/2/law:archives:c5511528/full/,800/0/default.jpg",1856,University of Virginia School of Law,iiif_manifest
 alfordbusassoc1947,Alford Bus,"Alford, Neil H",objects/Alford_BusAssoc_1947_manifest.json,RG 400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+AlfordConflicts1947,Alford Conflicts,"Alford, Neil H",objects/Alford_Conflicts_1947_manifest.json,RG 400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+alford_conlaw_1947,Alford Conflicts Law,"Alford, Neil H",objects/Alford_Conlaw_1947_manifest.json,RG 400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_ConLaw_1947,Alford Conflicts Law,"Alford, Neil H",objects/Alford_Conlaw_1947_manifest.json,RG 400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_Equity_1947,Alford Equity,"Alford, Neil H",objects/Alford_Equity_1947_manifest.json,RG 400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_EquityII_1947,Alford Equity II,"Alford, Neil H",objects/Alford_EquityII_1947_manifest.json,RG400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_Evidence_1947,Alford Evidence,"Alford, Neil H",objects/Alford_Evidence_1947_manifest.json,RG400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_FedProc_1947,Alford Fed Proc,"Alford, Neil H",objects/Alford_FedProc_1947_manifest.json,RG400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_FutureInterests_1941,Alford Future Interests 1941,"Alford, Neil H",objects/Alford_FutureInterests_1941_manifest.json,RG400,## pages,,1941,University of Virginia School of Law,iiif_manifest
+Alford_FutureInterests_1947,Alford Future Interests 1947,"Alford, Neil H",objects/Alford_FutureInterests_1947_manifest.json,RG400,## pages,,1947,University of Virginia School of Law,iiif_manifest
+Alford_FutureInterestsII_1947,Alford Future Interests II 1947,"Alford, Neil H",objects/Alford_FutureInterestsII_1947_manifest.json,RG400,## pages,,1947,University of Virginia School of Law,iiif_manifest
