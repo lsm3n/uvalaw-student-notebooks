@@ -62,7 +62,7 @@ leigh_intlaw_nd,Leigh Intro Law nd,Monroe Leigh,objects/Leigh_IntLaw_nd_manifest
 leigh_torts1_1941,Leigh Torts 1 1941,Monroe Leigh,objects/Leigh_Torts1_1941_manifest.json,MSS 04-2,## pages,,1941,University of Virginia School of Law,iiif_manifest
 leigh_torts2_1942,Leigh Torts 2 1942,Monroe Leigh,objects/Leigh_Torts2_1942_manifest.json,MSS 04-2,## pages,,1942,University of Virginia School of Law,iiif_manifest
 long_greeanleaf_1895_1897,Long Greenleaf 1895-1897,Joseph R. & William F. Long,objects/Long_Greeanleaf_1895_1897_manifest,RG400,## pages,,1895,University of Virginia School of Law,iiif_manifest
-mcallister_srlaw_1868_v1,McAllister Senior Law 1868 V1,William M. McAllister,objects/McAllister srlaw 1868 v1_manifest.json,RG400,## pages,,1868,University of Virginia School of Law,iiif_manifest
+mcallister_srlaw_868_v1,McAllister Senior Law 1868 V1,William M. McAllister,objects/McAllister srlaw 1868 v1_manifest.json,RG400,## pages,,1868,University of Virginia School of Law,iiif_manifest
 mcallister_srlaw_1868_v2,McAllister Senior Law 1868 V2,William M. McAllister,objects/McAllister srlaw 1868 v2_manifest.json,RG400,## pages,,1868,University of Virginia School of Law,iiif_manifest
 mcallister_jrlaw_1868_v1,McAllister Junior Law 1868 V1,William M. McAllister,objects/McAllister_jrlaw_1868_v1_manifest.json,RG400,## pages,,1868,University of Virginia School of Law,iiif_manifest
 mcallister_jrlaw_1868_v2,McAllister Junior law 1868 V2,William M. McAllister,objects/McAllister_jrlaw_1868_v2_manifest.json,RG400,## pages,,1868,University of Virginia School of Law,iiif_manifest
@@ -87,43 +87,43 @@ smith_contracts_1948,Smith Contracts 1948,"Everard H. Smith, Jr. ",objects/Smith
 smith_contractsii_1948,Smith Contracts II 1948,"Everard H. Smith, Jr. ",objects/Smith_ContractsII_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
 smith_conveyancing_1948,Smith Conveyancing 1948,"Everard H. Smith, Jr. ",objects/Smith_Conveyancing_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
 smith_crimlaw_1948,Smith Criminal Law 1948,"Everard H. Smith, Jr. ",objects/Smith_CrimLaw_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_crimlaw2_1948,Smith Criminal Law 1948,"Everard H. Smith, Jr. ",objects/Smith_CrimLaw2_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_e_conlaw_1948,Smith E Con Law 1948,"Everard H. Smith, Jr. ",objects/Smith_CrimLaw2_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_equity_1948,Smith Equity 1948,"Everard H. Smith, Jr. ",objects/Smith_Equity_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_equityii_1948,SmithEquity II 1948,"Everard H. Smith, Jr. ",objects/Smith_EquityII_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_evidence_1948,Smith Evidence 1948,"Everard H. Smith, Jr. ",objects/Smith_Evidence_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_fedjuris_1948,Smith Fed Juris 1948,"Everard H. Smith, Jr. ",objects/Smith_FedJuris_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_futureinterests_1948,Smith Future Interests 1948,"Everard H. Smith, Jr. ",objects/Smith_FutureInterests_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_generalpractice_1948,Smith General Practice 1949,"Everard H. Smith, Jr. ",objects/Smith_GeneralPractice_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_negotiableinstruments_1948,Smith Negotiable Instruments 1948,"Everard H. Smith, Jr. ",objects/Smith_NegotiableInstruments_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_persons_1948,Smith Persons 1948,"Everard H. Smith, Jr. ",objects/Smith_Persons_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_procedure_1948,Smith Procedure 1948,"Everard H. Smith, Jr. ",objects/Smith_Procedure_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_property_1948,Smith Property 1948,"Everard H. Smith, Jr. ",objects/Smith_Property_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_propertyii_1948,Smith Property II 1948,"Everard H. Smith, Jr. ",objects/Smith_PropertyII_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_propertyiii_1948,Smith Property III 1948,"Everard H. Smith, Jr. ",objects/Smith_PropertyIII_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_sales_1948,Smith Sales 1948,"Everard H. Smith, Jr. ",objects/Smith_Sales_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_security_1948,Smith Security 1948,"Everard H. Smith, Jr. ",objects/Smith_Security_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_torts_1948,Smith Torts 1948,"Everard H. Smith, Jr. ",objects/Smith_Torts_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_trusts_1948,Smith Trusts 1948,"Everard H. Smith, Jr. ",objects/Smith_Trusts_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_vaprocedure_1948,Smith VE Procedure 1948,"Everard H. Smith, Jr. ",objects/Smith_VAProcedure_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_wills_1948,Smith Wills 1948,"Everard H. Smith, Jr. ",objects/Smith_Wills_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-smith_wills2_1948,Smith Wills 2 1948,"Everard H. Smith, Jr. ",objects/Smith_Wills2_1948.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
-snead_constitlaw_1942,Snead Constit Law 1942,Rayner V. Snead,objects/Snead_ConstitLaw_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_contracts_1942,Snead Contracts 1942,Rayner V. Snead,objects/Snead_Contracts_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_equity_1942,Snead Equity 1942,Rayner V. Snead,objects/Snead_Equity_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_equitytrusts_1942,Snead Equity Trusts 1942,Rayner V. Snead,objects/Snead_EquityTrusts_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_evidencevaproc_1942,Snead Evidence VA Proc 1942,Rayner V. Snead,objects/Snead_EvidenceVAProc_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_privcorps_1942,Snead Priv Corps 1942,Rayner V. Snead,objects/Snead_PrivCorps_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_property_1942,Snead Property 1942,Rayner V. Snead,objects/Snead_Property_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-snead_torts_1942,Snead Torts 1942,Rayner V. Snead,objects/Snead_Torts_1942.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
-stevenson_1832_1833,Stevenson 1832-1833,John W. Stevenson,objects/Stevenson_1832_1833.json,RG400,## pages,,1832,University of Virginia School of Law,iiif_manifest
-ubben_1991,Ubben 1991,Donald Ubben,objects/Ubben_1991.json,RG400,## pages,,1991,University of Virginia School of Law,iiif_manifest
-washington_1861,Washington 1861,Robt James Washington,objects/Washington_1861.json,RG400,## pages,,1861,University of Virginia School of Law,iiif_manifest
-white_1867,White 1867,John M. White,objects/White_1867.json,RG400,## pages,,1867,University of Virginia School of Law,iiif_manifest
-wickham_jrlaw_1870_v1,Wickham Jr. Law 1870 V1,Henry T. Wickham,objects/Wickham_JrLaw_1870_v1.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-wickham_jrlaw_1870_v2,Wickham Jr. Law 1870 V2,Henry T. Wickham,objects/Wickham_JrLaw_1870_v2.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-wickham_jrlaw_1870_v3,Wickham Jr. Law 1870 V3,Henry T. Wickham,objects/Wickham_JrLaw_1870_v3.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-wickham_srlaw_1870_v1,Wickham Sr. Law 1870 V1,Henry T. Wickham,objects/Wickham_SrLaw_1870_v1.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-wickham_srlaw_1870_v2,Wickham Sr. Law 1870 V2,Henry T. Wickham,objects/Wickham_SrLaw_1870_v2.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-wickham_srlaw_1870_v3,Wickham Sr. Law 1870 V3,Henry T. Wickham,objects/Wickham_SrLaw_1870_v3.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
-woods_samuel_1880,"Woods, Samuel 1880",Samuel B. Woods,objects/Woods_Samuel_1880.json,RG400,## pages,,1880,University of Virginia School of Law,iiif_manifest
+smith_crimlaw2_1948,Smith Criminal Law 1948,"Everard H. Smith, Jr. ",objects/Smith_CrimLaw2_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_e_conlaw_1948,Smith E Con Law 1948,"Everard H. Smith, Jr. ",objects/Smith_CrimLaw2_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_equity_1948,Smith Equity 1948,"Everard H. Smith, Jr. ",objects/Smith_Equity_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_equityii_1948,SmithEquity II 1948,"Everard H. Smith, Jr. ",objects/Smith_EquityII_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_evidence_1948,Smith Evidence 1948,"Everard H. Smith, Jr. ",objects/Smith_Evidence_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_fedjuris_1948,Smith Fed Juris 1948,"Everard H. Smith, Jr. ",objects/Smith_FedJuris_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_futureinterests_1948,Smith Future Interests 1948,"Everard H. Smith, Jr. ",objects/Smith_FutureInterests_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_generalpractice_1948,Smith General Practice 1949,"Everard H. Smith, Jr. ",objects/Smith_GeneralPractice_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_negotiableinstruments_1948,Smith Negotiable Instruments 1948,"Everard H. Smith, Jr. ",objects/Smith_NegotiableInstruments_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_persons_1948,Smith Persons 1948,"Everard H. Smith, Jr. ",objects/Smith_Persons_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_procedure_1948,Smith Procedure 1948,"Everard H. Smith, Jr. ",objects/Smith_Procedure_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_property_1948,Smith Property 1948,"Everard H. Smith, Jr. ",objects/Smith_Property_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_propertyii_1948,Smith Property II 1948,"Everard H. Smith, Jr. ",objects/Smith_PropertyII_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_propertyiii_1948,Smith Property III 1948,"Everard H. Smith, Jr. ",objects/Smith_PropertyIII_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_sales_1948,Smith Sales 1948,"Everard H. Smith, Jr. ",objects/Smith_Sales_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_security_1948,Smith Security 1948,"Everard H. Smith, Jr. ",objects/Smith_Security_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_torts_1948,Smith Torts 1948,"Everard H. Smith, Jr. ",objects/Smith_Torts_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_trusts_1948,Smith Trusts 1948,"Everard H. Smith, Jr. ",objects/Smith_Trusts_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_vaprocedure_1948,Smith VE Procedure 1948,"Everard H. Smith, Jr. ",objects/Smith_VAProcedure_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_wills_1948,Smith Wills 1948,"Everard H. Smith, Jr. ",objects/Smith_Wills_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+smith_wills2_1948,Smith Wills 2 1948,"Everard H. Smith, Jr. ",objects/Smith_Wills2_1948_manifest.json,RG400,## pages,,1948,University of Virginia School of Law,iiif_manifest
+snead_constitlaw_1942, Rayner V. Snead Constitutional Law Notebook [ca. 1942],Rayner V. Snead,objects/Snead_ConstitLaw_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_contracts_1942, Rayner V. Snead Contracts Notebook [ca. 1942],Rayner V. Snead,objects/Snead_Contracts_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_equity_1942, Rayner V. Snead Equity Notebook [ca. 1942],Rayner V. Snead,objects/Snead_Equity_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_equitytrusts_1942, Rayner V. Snead Equity and Trust Notebook [ca. 1940-42],Rayner V. Snead,objects/Snead_EquityTrusts_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_evidencevaproc_1942," Rayner V. Snead Evidence and Virginia Procedure Notebook, [ca. 1940-42]",Rayner V. Snead,objects/Snead_EvidenceVAProc_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_privcorps_1942," Rayner V. Snead Private Corporations Notebook, [ca. 1940-42]",Rayner V. Snead,objects/Snead_PrivCorps_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_property_1942," Rayner V. Snead Property Notebook, [ca. 1940-42]",Rayner V. Snead,objects/Snead_Property_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+snead_torts_1942," Rayner V. Snead Torts Notebook, [ca. 1940-42]",Rayner V. Snead,objects/Snead_Torts_1942_manifest.json,RG400,## pages,,1942,University of Virginia School of Law,iiif_manifest
+stevenson_1832_1833,Stevenson 1832-1833,John W. Stevenson,objects/Stevenson_1832_1833_manifest.json,RG400,## pages,,1832,University of Virginia School of Law,iiif_manifest
+ubben_1991,Ubben 1991,Donald Ubben,objects/Ubben_1991_manifest.json,RG400,## pages,,1991,University of Virginia School of Law,iiif_manifest
+washington_1861,Washington 1861,Robt James Washington,objects/Washington_1861_manifest.json,RG400,## pages,,1861,University of Virginia School of Law,iiif_manifest
+white_1867,White 1867,John M. White,objects/White_1867_manifest.json,RG400,## pages,,1867,University of Virginia School of Law,iiif_manifest
+wickham_jrlaw_1870_v1,Wickham Jr. Law 1870 V1,Henry T. Wickham,objects/Wickham_JrLaw_1870_v1_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+wickham_jrlaw_1870_v2,Wickham Jr. Law 1870 V2,Henry T. Wickham,objects/Wickham_JrLaw_1870_v2_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+wickham_jrlaw_1870_v3,Wickham Jr. Law 1870 V3,Henry T. Wickham,objects/Wickham_JrLaw_1870_v3_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+wickham_srlaw_1870_v1,Wickham Sr. Law 1870 V1,Henry T. Wickham,objects/Wickham_SrLaw_1870_v1_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+wickham_srlaw_1870_v2,Wickham Sr. Law 1870 V2,Henry T. Wickham,objects/Wickham_SrLaw_1870_v2_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+wickham_srlaw_1870_v3,Wickham Sr. Law 1870 V3,Henry T. Wickham,objects/Wickham_SrLaw_1870_v3_manifest.json,RG400,## pages,,1870,University of Virginia School of Law,iiif_manifest
+woods_samuel_1880,"Woods, Samuel 1880",Samuel B. Woods,objects/Woods_Samuel_1880_manifest.json,RG400,## pages,,1880,University of Virginia School of Law,iiif_manifest
