@@ -1,0 +1,30 @@
+{%- assign notebooks = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
+{% assign desired_fields = "title,creator" | split: "," %}
+
+
+
+{% assign notebooks = site.data[site.metadata] | where_exp: "item", "item.objectid" %}
+
+{% if notebooks.size > 0 %}
+<table>
+  <thead>
+    <tr>
+      {% for field_name in desired_fields %}
+        <th>{{ field_name }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for notebook in notebooks %}
+      <tr>
+        {% for field_name in desired_fields %}
+          <td>{{ notebook[field_name] }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+  <p>No data available.</p>
+{% endif %}
+

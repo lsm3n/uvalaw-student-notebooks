@@ -4,28 +4,18 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
-
-  <div class="col-md-8">
-
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
-    
-  </div>
-  <div class="col-md-4">  
-
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-    
-    {% include index/objects.html %}
-
-  </div>
   <div class="col-md-12">
+    <p>Welcome to the UVA Law Student Notebooks Digital Library. This exceptional collection showcases nearly two centuries of student notebooks from the University of Virginia School of Law, offering unprecedented insights into the evolution of legal education. Our digital library houses 129 volumes, meticulously converted into 20,598 high-resolution images, capturing detailed lecture notes, personal reflections, and scholarly discussions.</p>
+    <p>Crafted using CollectionBuilder, this digital library is designed for ease of use, ensuring that students, scholars, and history enthusiasts can effortlessly access and explore these valuable resources. It features robust search tools, interactive functions, and a user-friendly interface, all enhancing the research experience. Thematic exhibitions and curated content provide deeper understanding and contextual background, enriching users' exploration.</p>
+        
+  </div>
+  <div class="row">
+    <div class="col-md-8"></div>
+    <div class="col-md-4">
+      {% include index/notebooks-carousel.html title="Explore" height=500 btn-text="Explore this Notebook" %}
+    </div>
 
-    {% include index/data-download.html %}
 
   </div>
-
+  
 </div>

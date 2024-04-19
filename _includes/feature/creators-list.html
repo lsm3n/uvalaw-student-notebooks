@@ -1,0 +1,27 @@
+{% assign notebooks = site.data[site.metadata] %}
+{% assign unique_authors = "" | split: "," %}  {% comment %}Initialize an empty array{% endcomment %}
+
+{% for notebook in notebooks %}
+  {% unless unique_authors contains notebook.creator %}
+    {% assign unique_authors = unique_authors | push: notebook.creator %}
+  {% endunless %}
+{% endfor %}
+
+{% assign unique_authors = unique_authors | uniq %}
+
+
+<table>
+    <thead>
+      <tr>
+        <th>Unique Authors</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for author in unique_authors %}
+        <tr>
+          <td>{{ author }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
