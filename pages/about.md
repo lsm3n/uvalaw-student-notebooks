@@ -329,6 +329,15 @@ To integrate with CollectionBuilder—a static site generator for digital collec
 
 The preparation of the CSV involves exporting data from ArchivesSpace, then enriching and adapting it to fit the CB schema. This includes ensuring that fields such as image URLs, titles, dates, and descriptions are correctly formatted and that the CSV is validated to prevent errors during the site building process.
 
+Additionally, for image thumbnails displayed in the browsing grid, we select and crop images to achieve consistent heights, ensuring a visually coherent layout. Using tools like the IIIF Crop Tool, we generate custom cropped images from the standard IIIF URLs, optimizing the visuals for a consistent grid appearance. This approach ensures that long images, like those with extended dimensions, fit seamlessly into the browsing grid, creating a more uniform and aesthetically pleasing user experience.
+
+To select an image, we selected a image from the manifest for each notebook and used its corresponding URL in IIIF:
+* standard example: \
+https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5506832/`full`/`,500`/0/default.jpg
+* cropped example: \
+https://iiif.lib.virginia.edu/iiiflaw/law:archives:c5506904/`6,2831,2340,3111`/`,500`/0/default.jpg
+
+
 
 ## Creating CollectionBuilder Site Locally Using Code Builder
 
