@@ -7,13 +7,13 @@
   {% endunless %}
 {% endfor %}
 
-{% assign unique_authors = unique_authors | uniq %}
+{% assign unique_authors = unique_authors | uniq | sort %}
 
 
 <table>
     <thead>
       <tr>
-        <th>Unique Authors</th>
+        <th>Notebook Creators</th>
       </tr>
     </thead>
     <tbody>

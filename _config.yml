@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: UVA Law Student Notebooks 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital library of notebooks
+tagline: A Digital Library of Law Student Notebooks
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "cool description"
+description: "The UVA Law Student Notebooks Digital Library is an extensive online collection featuring nearly two centuries of digitized student notebooks from the University of Virginia School of Law, offering a unique perspective on the evolution of legal education through lecture notes, personal reflections, and scholarly discussions."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Brady Allen, Hayden Fuller, Loren Moulds
 

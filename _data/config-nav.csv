@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
 Browse,/browse.html,
 Creators,/creators.html,
 Timeline,/timeline.html,
 Data,/data.html,
+Project,/about.html,
