@@ -106,7 +106,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the template uses Bootstrap Icons, https://icons.getbootstrap.com/
 # find the names on the BI icons page, e.g. file-image
 #
-# icons: 
+icons: 
 #   icon-image: image
 #   icon-audio: soundwave
 #   icon-video: film
@@ -117,3 +117,6 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   icon-multiple: postcard
 #   icon-default: file-earmark # fall back icon
 #   icon-back-to-top: arrow-up-square
+    icon-journal-richtext: journal-richtext
+    icon-mortarboard: mortarboard
+    icon-data: list-columns-reverse

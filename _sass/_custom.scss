@@ -2,3 +2,50 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+
+.icon-badge {
+    width: 10em;
+    height: 10em;
+    vertical-align: -0.1em;
+    stroke: black;
+    stroke-width: .15px;
+}
+
+.margin-top-large {
+    margin-top: 4em;
+}
+
+.margin-top-medium {
+    margin-top: 2em;
+}
+
+.margin-top-small {
+    margin-top: 1em;
+}
+
+.margin-bottom-large {
+    margin-bottom: 4em;
+}
+
+.margin-bottom-medium {
+    margin-bottom: 2em;
+}
+
+.margin-bottom-small {
+    margin-bottom: 1em;
+}
+
+.padding-top-large {
+    padding-top: 4em;
+}
+
+.padding-top-medium {
+    padding-top: 2em;
+}
+
+.padding-top-small {
+    padding-top: 1em;
+}
+
+

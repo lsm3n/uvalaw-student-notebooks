@@ -4,18 +4,57 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12 margin-top-large">
     <p>Welcome to the UVA Law Student Notebooks Digital Library. This exceptional collection showcases nearly two centuries of student notebooks from the University of Virginia School of Law, offering unprecedented insights into the evolution of legal education. Our digital library houses 129 volumes, meticulously converted into 20,598 high-resolution images, capturing detailed lecture notes, personal reflections, and scholarly discussions.</p>
     <p>Crafted using CollectionBuilder, this digital library is designed for ease of use, ensuring that students, scholars, and history enthusiasts can effortlessly access and explore these valuable resources. It features robust search tools, interactive functions, and a user-friendly interface, all enhancing the research experience. Thematic exhibitions and curated content provide deeper understanding and contextual background, enriching users' exploration.</p>
         
   </div>
-  <div class="row">
-    <div class="col-md-8"></div>
-    <div class="col-md-4">
-      {% include index/notebooks-carousel.html title="Explore" height=500 btn-text="Explore this Notebook" %}
+  <div class="explore-band margin-top-large margin-bottom-large">
+    <div class="row">
+      <div class="col-md-12 text-center margin-bottom-small">
+        <h2>Explore the Project</h2>
+      </div>
     </div>
-
-
+    <div class="row  text-center">
+      <div class="col-sm-1">&nbsp;</div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-md-4">
+            <a class="text-dark" href="{{'/browse.html' | relative_url }}">            
+              <svg class="bi icon-badge" role="img" aria-label="Browse Notebooks">
+                <use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-journal-richtext"/>
+              </svg>
+            </a>
+            <a class="text-dark padding-top-small" href="{{'/browse.html' | relative_url }}">   
+              <h3>Browse Notebooks</h3>
+            </a>
+          </div>
+          <div class="col-md-4">
+            <a class="text-dark" href="{{'/data.html' | relative_url }}">   
+              <svg class="bi icon-badge" role="img" aria-label="Data">
+                <use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-data"/>
+              </svg>
+            </a>
+            <a class="text-dark padding-top-small" href="{{'/data.html' | relative_url }}"> 
+              <h3>Metadata</h3>
+            </a>
+        </div>
+          <div class="col-md-4">
+            <a class="text-dark" href="{{'/about.html' | relative_url }}"> 
+              <svg class="bi icon-badge" role="img" aria-label="Project">
+                <use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#icon-mortarboard"/>
+              </svg>
+            </a>
+            <a class="text-dark padding-top-small" href="{{'/about.html' | relative_url }}"> 
+              <h3>Project Report</h3>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1">&nbsp;</div>
+    </div>
   </div>
+  
+
   
 </div>
